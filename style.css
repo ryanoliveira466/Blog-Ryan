@@ -1,0 +1,171 @@
+/* Index */
+
+.corpoIndex{
+    background-size: cover;
+    background-image: url(img/formula-1-monaco-gp-1988-ayrto-2.jpg)
+}
+
+.titulo{
+
+    color: rgb(255, 255, 255);
+    text-shadow: -1px 0px black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-family: "Arial Narrow";
+    background-color: rgba(195, 195, 209, 0.082);
+    display: flex;
+    justify-content: center
+}
+
+
+
+.linkTitulo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.tituloArtigos{
+    color: rgb(255, 255, 255);
+    text-shadow: -1px 0px black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-family: "Arial Narrow";
+    display: flex;
+    justify-content: center;
+
+}
+
+.postsIndex{
+    color: rgb(255, 255, 255);
+    background-color: rgba(74, 74, 78, 0.37);
+    text-shadow: -1px 0px black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-family: "Arial Narrow";
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.tituloPosts{
+
+    display: flex;
+    justify-content: center;
+    /* padding-left: 90px; */
+}
+
+
+.sumario{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    /* padding-top: 10px;
+    padding-left:80px; */
+}
+
+
+
+
+.rodape{
+
+    color: rgb(255, 255, 255);
+    text-shadow: -1px 0px black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-family: "Arial Narrow";
+    display: flex;
+    justify-content: center;
+
+
+
+
+
+}
+
+a{
+    color: cyan;
+    font-family: "Arial Narrow";
+    text-decoration: none;
+    /* padding-left: 35px; */
+}
+
+/* about */
+
+.corpoAbout{
+    background-size: cover;
+    background-image: url(img/formula-1-monaco-gp-1988-ayrto-2.jpg)
+}
+
+.tituloAbout{
+    color: rgb(255, 255, 255);
+    text-shadow: -1px 0px black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-family: "Arial Narrow";
+    background-color: rgba(195, 195, 209, 0.082);
+    display: flex;
+    justify-content: center;
+}
+
+.conteudoAbout{
+
+    background-color: rgba(74, 74, 78, 0.37);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.tituloImagemConteudo{
+    color: rgb(255, 255, 255);
+    text-shadow: -1px 0px black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-family: "Arial Narrow";
+    display: flex;
+    padding-left: 120px;
+
+
+}
+
+.textoConteudoAbout{
+
+
+
+    color: rgb(255, 255, 255);
+    text-shadow: -1px 0px black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-family: "Arial Narrow";
+    display: flex;
+    padding-left: 50px;
+
+
+}
+
+.conteudoAutor{
+    display: flex;
+    background-color: rgba(74, 74, 78, 0.37);
+
+}
+
+.tituloImagemAutor{
+    color: rgb(255, 255, 255);
+    text-shadow: -1px 0px black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-family: "Arial Narrow";
+    display: flex;
+    padding-left: 100px;
+
+}
+
+.referenciaImagemAutor{
+    color: rgb(255, 255, 255);
+    text-shadow: -1px 0px black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-family: "Arial Narrow";
+    display: flex;
+    padding-left: 75px;
+}
+
+.rodapeAbout{
+    color: #ffffff;
+    text-shadow: -1px 0px black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-family: "Arial Narrow";
+    display: flex;
+    justify-content: center;
+}
+
+/* post Artigos */
+
+.posicaoImagem{
+    display: flex;
+    justify-content: center;
+    
+}
+
